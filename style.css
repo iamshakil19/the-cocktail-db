@@ -1,0 +1,29 @@
+#background{
+    background-image: url(./image.jpg);
+    background-color: rgba(0, 0, 0, 0.651);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#spinner{
+    display: none;
+    color: white;
+}
+.fa-lemon{
+    color: rgb(255, 255, 255);
+    font-size: 7em;
+    margin-top: 50px;
+}
+.welcome-title{
+    font-size: 4em;
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+}
+.font{
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+.detail-bg-color{
+    background-color: rgba(0, 0, 0, 0.24);
+}
